@@ -11,7 +11,7 @@ Notepad like python application with features like save and open the files. Supp
 ### Prerequisites
 1.Python</br>
 2.Tkinter library</br>
-3.os library
+3.Os library
 
 
 ## Screenshots
@@ -27,7 +27,7 @@ Notepad like python application with features like save and open the files. Supp
 ## Language implementation
 * Python
 ## Libraries used
-1. Thinter
+1. Tkinter
 2. os
 
 ## Version
